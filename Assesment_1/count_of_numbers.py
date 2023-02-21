@@ -8,6 +8,6 @@ for i in a:
     else:
         odd  = odd + 1
     
-print(even,"Is even")
-print(odd,"Is odd")  
+print("Count of Even",even)
+print("Count of Odd",odd)  
           
