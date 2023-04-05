@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Aakash",
+        "DOB": "14/09/1999",
+        "Height": "6'2\"",
+        "City": "Mumbai",
+        "State": "Maharashtra"
+    },
+    {
+        "Name": "kane",
+        "DOB": "08/07/1997",
+        "Height": "6'6\"",
+        "City": "california",
+        "State": "Cf"
+    },
+    {
+        "Name": "rohit",
+        "DOB": "13/03/1988",
+        "Height": "5'12\"",
+        "City": "nagpur",
+        "State": "Mh"
+    },
+    {
+        "Name": "piyush",
+        "DOB": "03/04/1993",
+        "Height": "4'8\"",
+        "City": "jaipur",
+        "State": "Rj"
+    },
+    {
+        "Name": "sola",
+        "DOB": "05/08/1991",
+        "Height": "5'1\"",
+        "City": "indore",
+        "State": "Mp"
+    }
+]
